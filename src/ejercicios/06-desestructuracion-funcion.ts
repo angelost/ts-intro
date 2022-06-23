@@ -36,5 +36,5 @@ const articulos = [ telefono, tableta ];
 
 const [ total, isv ] = calculaISV( articulos );
 
-console.log('Total:', total );
-console.log('ISV:', isv);
+// console.log('Total:', total );
+// console.log('ISV:', isv);
